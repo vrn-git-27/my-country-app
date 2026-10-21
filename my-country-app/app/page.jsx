@@ -20,7 +20,7 @@ const page = () => {
       </p>
 
       <a
-        href="/countries"
+        href="/country"
         className="inline-block mt-6 bg-blue-600 text-white px-6 py-3 rounded"
       >
         Explore Countries
